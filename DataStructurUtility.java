@@ -62,7 +62,7 @@
 			/**
 			 * purpose : Dynamically Add and Delete String list and integer list
 			 * 
-			 * @author admin Akshay
+			 * @author admin vitthal
 			 *
 			 */
 			 class Node{
